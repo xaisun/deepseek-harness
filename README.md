@@ -6,7 +6,7 @@ DeepSeek Harness（简称 **DSH**）的 Windows 桌面版，开箱即用的本�
 
 > 桌面版为预编译二进制（约 256MB），请到 **[Releases](https://github.com/xaisun/deepseek-harness/releases)** 页面下载对应版本的压缩包。
 
-- **v1.0.1**：[DeepSeek Harness v1.0.1.zip](https://github.com/xaisun/deepseek-harness/releases/tag/v1.0.1)
+- **v1.0.1**：[dsh-v1.0.1.zip](https://github.com/xaisun/deepseek-harness/releases/tag/v1.0.1)（发布包原名 `DeepSeek Harness v1.0.1.zip`）
 
 ## 使用说明
 
