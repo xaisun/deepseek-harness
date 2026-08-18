@@ -12,7 +12,7 @@ A ready-to-run Windows desktop client for DeepSeek Harness (aka **DSH**), a loca
 > 桌面版为预编译二进制（约 256MB），请到 **[Releases](https://github.com/xaisun/deepseek-harness/releases)** 页面下载对应版本的压缩包。
 > The desktop build is a precompiled binary (~256MB). Download the archive for your version from the **[Releases](https://github.com/xaisun/deepseek-harness/releases)** page.
 
-- **v1.0.1**：[dsh-v1.0.1.zip](https://github.com/xaisun/deepseek-harness/releases/tag/v1.0.1)（发布包原名 `DeepSeek Harness v1.0.1.zip` / originally named `DeepSeek Harness v1.0.1.zip`）
+- **v1.0.2**：[DeepSeek Harness v1.0.2.zip](https://github.com/xaisun/deepseek-harness/releases/tag/v1.0.2)（新增「重启前端」入口，修复改 UI 后窗口消失问题）
 
 ---
 
@@ -21,7 +21,7 @@ A ready-to-run Windows desktop client for DeepSeek Harness (aka **DSH**), a loca
 ### 1. 安装 / Install
 
 **中文**
-1. 从 Releases 下载 `dsh-v1.0.1.zip`。
+1. 从 Releases 下载 `DeepSeek Harness v1.0.2.zip`。
 2. 将压缩包解压到任意目录（建议路径**不要包含中文或空格**，如 `D:\DSH\`）。
 3. 解压后无需安装额外依赖，运行时已随包内置。
 
