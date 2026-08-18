@@ -93,6 +93,10 @@ A（English）：Make sure extraction completed (including `harness-runtime/`) a
 A（中文）：见上方"数据与配置"，直接复制 `dsh-data/` 目录即可。
 A（English）：See "Data & Config" above — just copy the `dsh-data/` folder.
 
+**Q：让 Harness 改完对话窗口（放大、TOKEN 一行、会话费用）后窗口就不见了？**
+A（中文）：这是正常现象——web 服务在启动时一次性读入界面文件，UI 改动需重启服务才生效。点 **☰ 菜单 → 重启前端**（或托盘右键 → 重启前端）即可让改动生效，不必彻底退出重开。
+A（English）：Expected behavior — the web service loads the UI file only at startup, so UI changes need a service restart. Click **☰ Menu → Restart Frontend** (or right-click the tray icon → Restart Frontend) to apply changes without fully quitting.
+
 ---
 
 ## 免责声明 / Disclaimer
